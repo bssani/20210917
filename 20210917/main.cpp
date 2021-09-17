@@ -11,4 +11,6 @@ int main()
 	cout << num << endl;
 	cout << point << endl;
 	cout << name << endl;
+
+	return 0;
 }
